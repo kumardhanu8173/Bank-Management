@@ -21,4 +21,4 @@ The project allows users to create and manage bank accounts using a JSON file as
 
 📂 Project Structure
 - main.py → Main program file
-- datbase.json → Stores account data
+- datbase.json → Stores account data 
